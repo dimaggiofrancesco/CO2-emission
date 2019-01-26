@@ -1,7 +1,7 @@
 # CO2-emission
 
-**This repository was taken from an assignment I did on Coursera.org platform:  
-Applied Plotting, Charting & Data Representation in Python**
+*This repository was taken from an assignment I did on Coursera.org platform:  
+Applied Plotting, Charting & Data Representation in Python*
 
 **Project aim:**  
 * Find two or more datasets on the web which are related
