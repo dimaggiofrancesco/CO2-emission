@@ -9,6 +9,7 @@ Applied Plotting, Charting & Data Representation in Python**
 * When visualising the data, incorporate principles such as having as high data-ink ratio (Tufte) and  
 aligning with Cairo’s principles of truth, beauty, function, and insight. 
 
+  
 **Project summary:**  
 The data I chose to use were collected from https://data.worldbank.org.  
 In particular I decided to show the carbon dioxide emission in the 5 countries with the world's biggest economy  
